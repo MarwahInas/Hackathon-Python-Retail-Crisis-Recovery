@@ -1,6 +1,6 @@
 # Retail Crisis & Recovery - Python Data Analytics
 
-Proyek ini merupakan solusi teknis untuk "Hackathon Python DQLab x UjiKompetensi" dengan tema Retail Crisis and Recovery.
+Proyek ini merupakan solusi teknis untuk "Hackathon Python DQLab" dengan tema Retail Crisis and Recovery.
 
 Latar Belakang BisnisDQFresh Mart Retail, sebuah toko retail sukses, mengalami masalah serius berupa penurunan total nilai penjualan dalam 6 bulan terakhir. Strategi awal manajemen untuk bertahan dengan mempertahankan produk bestseller, memperbesar stok historis terbaik, dan menekan risiko inventaris ternyata tidak membuahkan hasil. 
 
